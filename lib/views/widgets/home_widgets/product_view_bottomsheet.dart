@@ -10,7 +10,6 @@ import 'package:gopasal/views/widgets/home_widgets/related_products_list.dart';
 
 class ProductViewBottomSheet extends StatefulWidget {
   const ProductViewBottomSheet({Key? key}) : super(key: key);
-
   @override
   State<ProductViewBottomSheet> createState() => _ProductViewBottomSheetState();
 }
